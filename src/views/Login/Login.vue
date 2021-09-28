@@ -13,21 +13,21 @@
             <input type="password" placeholder="Password"/>
           </div>
           <input type="submit" value="Login" class="btn solid"/>
-          <p class="social-text">Or Sign in with social platforms</p>
-          <div class="social-media">
-            <a href="#" class="social-icon">
-              <i class="fab fa-facebook-f"></i>
-            </a>
-            <a href="#" class="social-icon">
-              <i class="fab fa-twitter"></i>
-            </a>
-            <a href="#" class="social-icon">
-              <i class="fab fa-google"></i>
-            </a>
-            <a href="#" class="social-icon">
-              <i class="fab fa-linkedin-in"></i>
-            </a>
-          </div>
+<!--          <p class="social-text">Or Sign in with social platforms</p>-->
+<!--          <div class="social-media">-->
+<!--            <a href="#" class="social-icon">-->
+<!--              <i class="fab fa-facebook-f"></i>-->
+<!--            </a>-->
+<!--            <a href="#" class="social-icon">-->
+<!--              <i class="fab fa-twitter"></i>-->
+<!--            </a>-->
+<!--            <a href="#" class="social-icon">-->
+<!--              <i class="fab fa-google"></i>-->
+<!--            </a>-->
+<!--            <a href="#" class="social-icon">-->
+<!--              <i class="fab fa-linkedin-in"></i>-->
+<!--            </a>-->
+<!--          </div>-->
         </form>
       </div>
     </div>
@@ -35,14 +35,7 @@
     <div class="panels-container">
       <div class="panel left-panel">
         <div class="content">
-          <h3>New here ?</h3>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis,
-            ex ratione. Aliquid!
-          </p>
-          <button class="btn transparent" id="sign-up-btn" @click="registerRedirect">
-            Sign up
-          </button>
+
         </div>
         <img src="img/log.svg" class="image" alt=""/>
       </div>
